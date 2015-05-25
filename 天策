@@ -1,0 +1,16 @@
+第一段：
+/cast [nobuff:啸如虎] 啸如虎
+/cast [mana<0.7] 徐如林 
+/cast [buff:牧云>2] 撼如雷
+/cast [buff:激雷] 疾如风
+第二段：
+/cast [tnobuff:流血] 破风
+/cast 龙牙
+/cast [tbuff:致伤=2|buff:牧云<4] 龙吟
+/cast 穿云
+迎风回浪
+/cast [target:npc&distance<8&nobuff:牧云] 迎风回浪
+/cast [tbuff:流血] 突
+扶摇直上
+/cast [target:npc&distance<8&nobuff:牧云] 扶摇直上
+/cast [tbuff:流血] 突
