@@ -1,0 +1,10 @@
+/cast [mana<.4&qidian>8&nobuff:紫气东来] 抱元守缺
+/cast [buff:破苍穹&buff:太极>=2] 紫气东来
+/cast [buff:紫气东来] 韬光养晦
+/use [buff:紫气东来] 灵南坠
+
+/cast [nobuff:破苍穹&nobuff:紫气东来] 破苍穹
+/cast 万世不竭
+/cast [qidian>8] 两仪化形
+/cast 太极无极
+/cast 四象轮回
