@@ -1,0 +1,15 @@
+/cast [bufftime:心无旁骛>14] 图穷匕见
+/cast [energy<20] 惊鸿游龙
+/cast 连弩形态
+/cast [nobuff:千机之威] 千机变
+/cast 攻击
+
+/cast [bufftime:心无旁骛<2] 图穷匕见
+/cast [tbufftime:噬心>13&buff:气魄] 鬼斧神工
+/cast [buff:扬威] 心无旁骛
+/cast [bufftime:心无旁骛>2] 暗藏杀机
+
+/cast [tnobuff:化血镖|tbufftime:噬心<3] 化血镖
+/cast [nobuff:气魄] 暴雨梨花针
+/cast 天绝地灭
+/cast 蚀肌弹
