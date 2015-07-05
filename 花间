@@ -9,3 +9,15 @@
 /cast [nobuff:焚玉|buff:焚玉=1] 玉石俱焚
 /cast 阳明指
 /cast 商阳指
+
+
+轻弃放歌流
+
+/cast [tbufftime:兰摧玉折<4] 芙蓉并蒂
+/cast [tnobuff:兰摧玉折&nobuff:乱洒青荷] 兰摧玉折
+/cast [tnobuff:商阳指&nobuff:乱洒青荷] 商阳指
+/cast 阳明指
+
+/cast [nobuff:寒碧&tbufftime:钟林毓秀>10] 玉石俱焚
+/cast [buff:梦歌=5&tnobuff:兰摧玉折] 乱洒青荷
+/cast [mana<0.6] 碧水滔天
