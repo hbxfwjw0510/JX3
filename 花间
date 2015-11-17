@@ -1,3 +1,13 @@
+/cast [mana<0.4] 碧水滔天
+/cast [bufftime:焚玉>12&tbufftime:商阳指>16] 乱洒青荷
+
+/cast [tnobuff:商阳指] 商阳指
+/cast [bufftime:焚玉>11] 阳明指
+/cast [tnobuff:兰摧玉折&nobuff:乱洒青荷] 兰摧玉折
+/cast [nobuff:焚玉] 玉石俱焚
+/cast 阳明指
+
+=====================================================================
 /cast [mana<0.6] 碧水滔天
 /cast [buff:焚玉=9&buff:梦歌=5] 乱洒青荷
 /cast [buff:乱洒青荷&tbuff:兰摧玉折&tbuff:商阳指] 玉石俱焚
