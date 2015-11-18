@@ -8,26 +8,14 @@
 /cast 阳明指
 
 =====================================================================
-/cast [mana<0.6] 碧水滔天
-/cast [buff:焚玉=9&buff:梦歌=5] 乱洒青荷
-/cast [buff:乱洒青荷&tbuff:兰摧玉折&tbuff:商阳指] 玉石俱焚
-
-/cast [tnobuff:商阳指&nobuff:乱洒青荷] 商阳指
-/cast [tnobuff:兰摧玉折&nobuff:乱洒青荷] 兰摧玉折
-
-/cast [tnobuff:兰摧玉折&tnobuff:商阳指] 水月无间
-/cast [nobuff:焚玉|buff:焚玉=1] 玉石俱焚
-/cast 阳明指
-/cast 商阳指
-
 
 轻弃放歌流
 
-/cast [tbufftime:兰摧玉折<4] 芙蓉并蒂
+/cast [tbufftime:商阳指<4] 芙蓉并蒂
+/cast [tnobuff:商阳指] 商阳指
 /cast [tnobuff:兰摧玉折&nobuff:乱洒青荷] 兰摧玉折
-/cast [tnobuff:商阳指&nobuff:乱洒青荷] 商阳指
 /cast 阳明指
 
 /cast [nobuff:寒碧&tbufftime:钟林毓秀>10] 玉石俱焚
-/cast [buff:梦歌=5&tnobuff:兰摧玉折] 乱洒青荷
+/cast [tbufftime:商阳指>15&tnobuff:兰摧玉折] 乱洒青荷
 /cast [mana<0.6] 碧水滔天
