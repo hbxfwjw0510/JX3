@@ -1,0 +1,14 @@
+/cast [qidian>=2&nobuff:金刚怒目|bufftime:金刚怒目<3] 金刚怒目
+/cast [fight&qidian<2] 擒龙诀
+/cast [mana<0.3&qidian>1&nobuff:弱水] 亦枯亦荣
+
+/cast [tnobuff:普渡四方|tbufftime:普渡四方<3] 普渡四方
+/cast [qidian>2] 拿云式
+/cast [qidian>2] 韦陀献杵
+/cast 横扫六合
+/cast 守缺式
+/cast 普渡四方
+
+/cast 罗汉金身
+/cast [distance>5] 捕风式
+/cast [nobuff:伏魔&life>0.4] 二业依缘
