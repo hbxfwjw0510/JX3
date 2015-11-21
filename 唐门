@@ -1,10 +1,11 @@
-/cast [bufftime:心无旁骛>14] 图穷匕见
-/cast [energy<20] 惊鸿游龙
-/cast 连弩形态
-/cast [nobuff:千机之威] 千机变
-/cast 攻击
+/selectP 冰魄寒光
+/cast 千机变
 
-/cast [bufftime:心无旁骛<2] 图穷匕见
+/cast 连弩形态
+/cast 攻击
+/cast [energy<20] 惊鸿游龙
+
+/fcast [bufftime:心无旁骛<2] 图穷匕见
 /cast [tbufftime:噬心>13&buff:气魄] 鬼斧神工
 /cast [buff:扬威] 心无旁骛
 /cast [bufftime:心无旁骛>2] 暗藏杀机
@@ -13,3 +14,31 @@
 /cast [nobuff:气魄] 暴雨梨花针
 /cast 天绝地灭
 /cast 蚀肌弹
+
+毒刹--暴雨（群）
+/cast 毒刹形态
+/cast 千机变
+/cast [tnobuff:化血镖|tbufftime:噬心<3&nobuff:奥妙] 化血镖
+/cast 天绝地灭
+/cast 暴雨梨花针
+
+毒刹--鸡蛋（单）
+/cast 毒刹形态
+/cast 千机变
+/cast [tnobuff:化血镖|tbufftime:噬心<3] 化血镖
+/cast [nobuff:气魄] 暴雨梨花针
+/cast 天绝地灭
+/cast 蚀肌弹
+
+===========================================================================
+/cast [life<0.4] 惊鸿游龙
+/cast [buff:追命无声] 心无旁骛
+/use [buff:心无旁骛] 关音断
+/cast [tnobuff:化血镖] 化血镖
+
+/cast [nobuff:气魄] 暴雨梨花针
+/fcast [buff:追命无声|bufftime:侵火动旌>13] 追命箭
+/cast [tnobuff:穿心弩] 穿心弩
+/cast 逐星箭
+/cast 夺魄箭
+/cast 裂石弩
