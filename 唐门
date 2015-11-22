@@ -42,3 +42,19 @@
 /cast 逐星箭
 /cast 夺魄箭
 /cast 裂石弩
+
+
+
+/cast [buff:追命无声] 心无旁骛
+/use [buff:心无旁骛] 天下皆虏
+/cast [buff:追命无声|bufftime:侵火动旌>13] 追命箭
+/cast [buff:无遗] 夺魄箭
+
+
+/cast [nobuff:气魄] 暴雨梨花针
+/cast [tnobuff:穿心弩] 穿心弩
+/cast [tnobuff:化血镖] 化血镖
+/cast 逐星箭
+/cast [nobuff:追命无声] 夺魄箭
+/cast 裂石弩
+
