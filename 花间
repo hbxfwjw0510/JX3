@@ -1,5 +1,21 @@
 /cast [mana<0.4] 碧水滔天
 /cast [bufftime:焚玉>12&tbufftime:商阳指>16] 乱洒青荷
+/fcast [nobuff:焚玉&tbufftime:钟林毓秀>14] 玉石俱焚
+
+/cast [tnobuff:商阳指&nobuff:乱洒青荷] 商阳指
+/cast [bufftime:焚玉>11] 阳明指
+/cast [tnobuff:兰摧玉折&nobuff:乱洒青荷] 兰摧玉折
+/cast 阳明指
+
+备注：12月8日优化玉石判定条件，调整部分语句顺序
+
+
+
+
+
+
+/cast [mana<0.4] 碧水滔天
+/cast [bufftime:焚玉>12&tbufftime:商阳指>16] 乱洒青荷
 
 /cast [tnobuff:商阳指] 商阳指
 /cast [bufftime:焚玉>11] 阳明指
