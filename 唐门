@@ -1,5 +1,3 @@
-/selectP 冰魄寒光
-/cast 千机变
 
 /cast 连弩形态
 /cast 攻击
@@ -21,6 +19,7 @@
 /cast [tnobuff:化血镖|tbufftime:噬心<3&nobuff:奥妙] 化血镖
 /cast 天绝地灭
 /cast 暴雨梨花针
+/cast 天女散花
 
 毒刹--鸡蛋（单）
 /cast 毒刹形态
