@@ -1,7 +1,7 @@
 第一段：
 /cast [nobuff:啸如虎] 啸如虎
 /cast [mana<0.6] 徐如林 
-
+/cast [life<0.4] 守如山
 第二段：
 /cast [buff:牧云>3] 疾如风
 /cast [tnobuff:流血] 破风
