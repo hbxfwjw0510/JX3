@@ -1,0 +1,13 @@
+双绝
+/cast [nobuff:血怒|buff:血怒<3] 血怒
+/cast [rage>80] 盾飞
+/cast 盾压
+/cast 盾猛
+/cast 盾刀
+
+/cast [nobuff:血怒|buff:血怒<3] 血怒
+/cast [rage<5] 盾回
+/cast [rage>50] 斩刀
+/cast [buff:狂绝] 闪刀
+/cast [buff:怒炎] 绝刀
+/cast [nobuff:狂绝] 劫刀
