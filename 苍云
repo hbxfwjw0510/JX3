@@ -11,3 +11,17 @@
 /cast [buff:狂绝] 闪刀
 /cast [buff:怒炎] 绝刀
 /cast [nobuff:狂绝] 劫刀
+
+流血
+/cast [nobuff:血怒|buff:血怒<3] 血怒
+/cast [rage>90] 盾飞
+/cast 盾压
+/cast 盾猛
+/cast 盾击
+/cast 盾刀
+
+/cast [rage<50] 盾回
+/cast 斩刀
+/cast [tbufftime:流血>17] 闪刀
+/cast [tbuff:流血<3] 血刀
+/cast 劫刀
