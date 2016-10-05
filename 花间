@@ -1,4 +1,22 @@
+风骨霸刀版本
+清流
+/cast [buff:清流] 水月无间
+/cast [tbufftime:商阳指>13&tbufftime:钟林毓秀>13] 玉石俱焚
+/cast [tnobuff:商阳指] 商阳指
+/cast [tnobuff:兰摧玉折] 兰摧玉折
+/cast 阳明指
 
+乱洒
+/cast [buff:焚玉&tnobuff:商阳指] 乱洒青荷
+/cast [buff:乱洒青荷] 水月无间
+/cast [mana<0.4] 碧水滔天
+
+/cast [tbufftime:商阳指>13&tbufftime:钟林毓秀>13] 玉石俱焚
+/cast [tnobuff:商阳指] 商阳指
+/cast [tnobuff:兰摧玉折&nobuff:乱洒青荷] 兰摧玉折
+/cast 阳明指
+
+================================================================
 /cast [bufftime:焚玉>12&tbufftime:商阳指>16] 乱洒青荷
 /cast [buff:乱洒青荷] 水月无间
 /fcast [nobuff:焚玉&tbufftime:钟林毓秀>14] 玉石俱焚
